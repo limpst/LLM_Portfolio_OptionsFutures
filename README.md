@@ -1,7 +1,7 @@
  Multi-Agent Financial RAG & Portfolio Optimization System
 
 ## 1. Executive Summary
-**OptiQ** is a *self-improving* Financial RAG system that synthesizes **real-time news** with **historical macro scenarios** to produce optimized **asset allocation guidance**.  
+**This** is a *self-improving* Financial RAG system that synthesizes **real-time news** with **historical macro scenarios** to produce optimized **asset allocation guidance**.  
 Unlike standard retrieval-only pipelines, OptiQ uses a **Multi-Agent Debate framework (Bull vs. Bear)** to surface market divergences, then converts those insights into **quantitative parameter adjustments**, and finally runs **constrained numerical optimization (SLSQP)** to output an end-to-end investment strategy.
 
 ---
