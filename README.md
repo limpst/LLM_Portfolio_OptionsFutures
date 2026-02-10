@@ -125,5 +125,5 @@ A `PerformanceTracker` monitors system health and quality:
 ### Example Request
 ````json
 {
-  "question": "How will the nomination of Kevin Warsh affect the Korean option market?"
+  "question": "How will the nomination of Kevin Warsh affect the KRX option market?"
 }
